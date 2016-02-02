@@ -6,11 +6,9 @@ decision of the project, technical or otherwise, including overruling
 previous decisions. There are no limitations to this power.
 
 2. Contributions are an expected result of your membership on the project.
-<<<<<<< HEAD
 Do not expect others to do your work or help you with your work forever.
 
 3. All members have the same opportunities to seek any challenge
->>>>>>> combine-12-and-14
 within the project.
 
 4. Authority or position in the project is proportional
@@ -41,7 +39,6 @@ of the originator to provide the requested context.
 within the scope of the project. This Code of Merit does not take precedence
 over governing law.
 
-<<<<<<< HEAD
 12. This Code of Merit governs only the procedures of this project.
 Activities or objectives outside the scope of this project are irrelevant.
 Purposeful intent to deviate this project from its stated purpose
@@ -49,5 +46,4 @@ is reason for remedial action.
 
 13. Participation on the project equates to agreement of this Code of Merit.
 
->>>>>>> combine-12-and-14
 This document is the Code of Merit (http://code-of-merit.org), version 1.0.
